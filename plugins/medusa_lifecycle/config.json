@@ -1,0 +1,5 @@
+{
+  "name": "MEDUSA Lifecycle",
+  "route": "/admin/plugins/medusa-lifecycle",
+  "description": "Competition and round lifecycle management for event state and operational timing"
+}
