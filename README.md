@@ -1,6 +1,6 @@
 # MEDUSA CTFd Plugins
 
-This repository contains the MEDUSA CTFd plugin layer for the custom cyber-operations platform built on top of CTFd 3.8.8.
+This repository contains the MEDUSA CTFd plugin layer for the inter-university CTF platform built on top of CTFd 3.8.8.
 
 ## Architecture
 
