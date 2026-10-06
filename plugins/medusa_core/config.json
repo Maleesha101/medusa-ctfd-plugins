@@ -1,0 +1,5 @@
+{
+  "name": "MEDUSA Core",
+  "route": "/admin/plugins/medusa-core",
+  "description": "Core MEDUSA plugin for competition lifecycle and operational telemetry"
+}
