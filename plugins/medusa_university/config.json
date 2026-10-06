@@ -1,0 +1,5 @@
+{
+  "name": "MEDUSA University",
+  "route": "/admin/plugins/medusa-university",
+  "description": "University, team, and institutional participation management for MEDUSA"
+}
